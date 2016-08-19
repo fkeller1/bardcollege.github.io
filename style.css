@@ -1,6 +1,6 @@
 body {
-    background-color: lilac;
-    color: baby blue;
+    background-color: rgb (200,162,200);
+    color: blue;
     font-size: 180%;
     line-height: 1.4;
 }
@@ -58,7 +58,7 @@ img{
     font-size: 110%;
     color:gray;
     padding: 4px;
-    border:2px turquoise;
+    border:2px pink;
 }
 
 .redacted{
